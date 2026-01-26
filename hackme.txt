@@ -1,0 +1,5 @@
+Name:bob
+Favorite color:green
+First Pet:john
+Mother's maiden name:lincoln
+Elementary school:new
